@@ -1,9 +1,9 @@
-# 🪬 IMAGE TO ASCII
+## 🪬 IMAGE TO ASCII
 A C++ CLI tool that converts png/jpg images into ASCII art
 
-# 🔨 How to Build?
+## 🔨 How to Build?
 
-### Important❗❗❗ this project requires the **OpenCV** library
+#### Important❗❗❗ this project requires the **OpenCV** library
 
 1. Clone the repository
 ```git clone https://github.com/eXXXmortis/image-to-ASCII.git```
@@ -19,7 +19,7 @@ replace "your path" with path that points to the folder containing 'OpenCVConfig
 4. Compile the project
 ```cmake --build . --config Release```
 
-# 💥 How to Use?
+## 💥 How to Use?
 
 ```imageToASCII.exe "path-to-image"```
 replace "path-to-image" with the path to the image you want
